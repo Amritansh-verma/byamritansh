@@ -1,0 +1,34 @@
+#up
+{
+    height: 70px ;
+    background-color: brown;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: beige;
+    font-size: xx-large;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 25px;
+    }
+    #x
+    {
+        font-size: 20px;
+    }
+    #down
+{
+    height: 70px ;
+    background-color: rgb(44, 42, 165);
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: beige;
+    font-size: xx-large;
+    font-style: italic;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 5px;
+    }
